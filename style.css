@@ -1,0 +1,12 @@
+div{
+    margin: 15px;
+    background-color: gray;
+    border: 5px solid black;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+
+}
+#port{
+    text-align: center;
+}
